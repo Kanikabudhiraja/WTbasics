@@ -1,0 +1,148 @@
+
+*
+{   padding: 0;
+    margin: 0;
+} 
+
+  #heading3{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+.layout
+{
+    width:1000px;
+    margin:0 auto;
+}
+.header-part
+{
+    height:200px;
+    width:100%;
+    background-color: lightblue;
+}
+.nav-part
+{
+    height:50px;
+    width:100%;
+    background-color: blue;
+}
+.main-area
+{
+    height:500px;
+    width:100%;
+    background-color: lightgreen;
+}
+.footer
+{
+    height:60px;
+    width:100%;
+    background-color: black;
+}
+
+.image-gallery
+{
+    width:100px;
+    margin: auto;
+
+}
+.gallery-row
+{
+    height:100px;
+}
+.image-item
+{
+    width:20%;
+    float: left;
+    height: 100px;
+}
+.image-item img
+{
+    height: 80px;
+    width: 80px;
+}
+.choose-country
+{
+    height:500px ;
+    width: 100%;
+    background-color:lightpink ;
+}
+.heading
+{
+
+}
+.heading h2{
+    text-align: center;
+    margin-top: 10px;
+}
+.country-all
+{
+    width: 80%;
+    background-color: white;
+    box-shadow: 2px 2px 5px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.country-item
+{
+    width:22%;
+    float: left;
+    height: 150px;
+    margin-left: 30px;
+}
+.country-item img
+{
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+}
+.country-item h4{
+
+}
+.country-item p{
+    
+}
+.country-item button
+{
+    background-color: yellow;
+}
+/* ****************************** */
+.expert
+{
+    height: 400px;
+    width: 100%;
+    background-color: white;
+}
+.middle
+{
+    width:80% ;
+    margin:0 auto ;
+    padding-top: 50px;
+}
+.left-content
+{
+    width: 33%;
+    float: left;
+    height: 250px;
+}
+.left-content h1{
+
+}
+.left-content p{
+
+}
+.left-content button{
+
+}
+.image-box{
+
+}
+.image-box img
+{
+    width: 30%;
+    float: left;
+    height: 250px;
+}
